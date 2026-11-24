@@ -19,7 +19,7 @@ Sistem, eğitimcilerin video düzenleme sürecinde harcadığı zamanı azaltmay
 
 ## Proje Tanıtım Videosu
 
-Tanıtım videosu henüz yüklenmemiştir. Yüklendikten sonra bağlantısı bu bölüme eklenecektir.
+[TÜBİTAK 2209-A Projesi Tanıtım Videosunu İzle](https://youtu.be/DFSqX0H19tA)
 
 ---
 
