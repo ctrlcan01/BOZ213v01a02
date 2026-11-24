@@ -17,11 +17,36 @@ Sistem, eğitimcilerin video düzenleme sürecinde harcadığı zamanı azaltmay
 - Düzenlenen videoların öğrenci dikkati ve bilişsel yük üzerindeki etkisini incelemek.
 - Ders videolarında yaklaşık %20–30 oranında süre tasarrufu sağlamayı hedeflemek.
 
-## Proje Tanıtım Videosu
+## Tanıtım Videosu
 
 [TÜBİTAK 2209-A Projesi Tanıtım Videosunu İzle](https://youtu.be/DFSqX0H19tA)
 
 ---
 
-**Ders / Ödev:** BOZ213v01a02  
-**Proje:** Yapay Zekâ Destekli Otonom Ders Videosu Kurgu Sistemi
+# English
+
+## Project Purpose
+
+The aim of this project is to develop an AI-powered video editing system that analyzes raw lecture videos and identifies unnecessary pauses, filler sounds (such as "um" and "uh"), speech slips, and semantically redundant or incorrect sentence repetitions.
+
+The system aims to reduce the time educators spend editing lecture recordings and make educational content clearer, smoother, and more effective for students.
+
+## Project Objectives
+
+- Detect long and unnecessary pauses in lecture videos.
+- Identify filler sounds and expressions used during speech.
+- Analyze transcripts semantically to detect incorrect or unnecessary sentence repetitions.
+- Present suggested edits to the user for review and approval.
+- Edit only the segments approved by the user to shorten the video.
+- Preserve the meaning and continuity of the original lecture.
+- Examine the effects of edited videos on students' attention and cognitive load.
+- Aim to reduce lecture video duration by approximately 20–30% without compromising content integrity.
+
+## Introduction Video
+
+[Watch the TÜBİTAK 2209-A Project Introduction Video](https://youtu.be/DFSqX0H19tA)
+
+---
+
+**Course / Assignment:** BOZ213v01a02  
+**Project:** AI-Powered Autonomous Lecture Video Editing System
